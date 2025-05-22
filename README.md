@@ -36,3 +36,5 @@ When a building is selected, its data is fetched from Supabase.
 The shortest path between current location and selected building is calculated using A*.
 
 Everything (camera, graph, model) is adjusted to stay in sync
+
+DEMO https://youtu.be/zHrLycq5nIs
