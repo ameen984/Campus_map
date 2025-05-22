@@ -37,4 +37,4 @@ The shortest path between current location and selected building is calculated u
 
 Everything (camera, graph, model) is adjusted to stay in sync
 
-DEMO https://youtu.be/zHrLycq5nIs
+DEMO https://youtu.be/CX3Zi4M1L1w
