@@ -37,4 +37,6 @@ The shortest path between current location and selected building is calculated u
 
 Everything (camera, graph, model) is adjusted to stay in sync
 
-DEMO https://youtu.be/CX3Zi4M1L1w
+Youtube DEMO https://youtu.be/CX3Zi4M1L1w
+
+Live DEMO https://tranquil-crumble-53680f.netlify.app/
